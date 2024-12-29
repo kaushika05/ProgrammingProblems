@@ -15,7 +15,7 @@ Our goal is to help developers at all stages prepare for technical interviews wh
   - [Advanced-Level](./questions/advanced)
 
 - 🧑‍💻 **Solutions Included:**  
-  Each question folder includes a `solution.md` file with solutions in multiple programming languages (e.g., Python, Java, C++).
+  Each question folder includes `solution.extension` files with solutions in multiple programming languages.
 
 - 🤝 **Community Contributions Welcome:**  
   Anyone can add questions, solutions, or improvements.
@@ -68,7 +68,7 @@ Create a folder for the question (e.g., Entrylevel/question3).
 Add a problem.md file with the problem statement.
 Add a solution.extension file with solutions in ONE language.
 For another language, add another solution.extension file.
-Submit a pull request see [CONTRIBUTING.md](./CONTRIBUTING.md)
+Submit a pull request (see [CONTRIBUTING.md](./CONTRIBUTING.md))
 
 Join the conversation:  
 - Follow me on [Twitter](https://twitter.com/SineOfDaTimes) for updates.  
